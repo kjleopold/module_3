@@ -22,6 +22,7 @@ This exercise is used to reinforce key Python visualization skills. It offers pr
 * `pip install -r requirements.txt`
 
 ### Open Notebook and Complete Tasks
+* Make sure kernal is selected.
 * Add a viewable, clickable link to GitHub repo after name in the Markdown Introduction.
 * Use Markdown headings to show content by each question number.
 * Complete the questions.
