@@ -30,7 +30,8 @@ This exercise is used to reinforce key Python visualization skills. It offers pr
     - `import matplotlib.pyplot as plt`
     - `import random`
     - Create charts
-```# make a bar plot with an appropriate title, correct xtick labels, and labeled axes
+```
+# make a bar plot with an appropriate title, correct xtick labels, and labeled axes
 
 sort_letters = sorted(letter_freq.keys())
 sort_counts = [letter_freq[char] for char in sort_letters]
@@ -52,7 +53,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-```# Line plot
+```
+# Line plot
 ax1.plot(x, random_numbers, marker='p', markersize=10, markerfacecolor='purple', color='skyblue')
 ax1.set_title("Line Plot")
 ax1.set_xlabel("Index")
@@ -68,7 +70,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-```# Plot both datasets on the same axes
+```
+# Plot both datasets on the same axes
 plt.figure(figsize=(10, 5))
 
 plt.plot(sizes, insertion_sort_times, marker='o', color='teal', label='Insertion Sort')
