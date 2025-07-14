@@ -32,7 +32,6 @@ This exercise is used to reinforce key Python visualization skills. It offers pr
     - Create charts
 ```
 # make a bar plot with an appropriate title, correct xtick labels, and labeled axes
-
 sort_letters = sorted(letter_freq.keys())
 sort_counts = [letter_freq[char] for char in sort_letters]
 
