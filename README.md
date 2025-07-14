@@ -15,7 +15,7 @@ This exercise is used to reinforce key Python visualization skills. It offers pr
 ### Step 2: Set Up and Activate Virtual Environment
 * `python -m venv .venv`
 * `.venv/Scripts/activate`
-* * Select appropriate interpreter
+* Select appropriate interpreter
     - Ctrl + Shift + P
     - Python: Select Inerpreter
     - Choose .venv\Scripts\python.exe
