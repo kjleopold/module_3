@@ -18,7 +18,7 @@ This exercise is used to reinforce key Python visualization skills. It offers pr
 * * Select appropriate interpreter
     - Ctrl + Shift + P
     - Python: Select Inerpreter
-    - Choose .'\'.venv\Scripts\python.exe
+    - Choose .venv\Scripts\python.exe
 
 ### Create .gitignore and Install Packages
 * Create .gitignore.
